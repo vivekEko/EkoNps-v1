@@ -71,10 +71,12 @@ const Auth = () => {
         } else if (result.Message === "FALSE") {
           // history("/");
           setUserIsValid(false);
+          alert("Incorrect credentials, please try again.");
         }
       })
       .catch((error) => {
         console.error("Error:", error);
+        alert("Something went wrong, please try again.");
       });
   };
 
