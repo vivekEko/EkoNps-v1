@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "year": "2020",
+    "month": "jan",
+    "sentiment_label": "Extreme",
+    "promoter": 10,
+    "passive": 20,
+    "detractor": 70
+  },
+  {
+    "id": 2,
+    "year": "2020",
+    "month": "jan",
+    "sentiment_label": "Negative",
+    "promoter": 8,
+    "passive": 32,
+    "detractor": 60
+  },
+  {
+    "id": 3,
+    "year": "2020",
+    "month": "jan",
+    "sentiment_label": "Neutral",
+    "promoter": 20,
+    "passive": 65,
+    "detractor": 15
+  },
+  {
+    "id": 4,
+    "year": "2020",
+    "month": "jan",
+    "sentiment_label": "Positive",
+    "promoter": 60,
+    "passive": 25,
+    "detractor": 15
+  }
+]

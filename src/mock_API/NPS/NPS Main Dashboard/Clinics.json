@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "clinic": "Grand Junction Trailhead Clinic",
+      "city": "Grand Junction",
+      "state": "CO",
+      "nps": 10.0
+    },
+    {
+      "clinic": "Miami Le Jeune Rd Clinic",
+      "city": "Miami",
+      "state": "FL",
+      "nps": 9.78
+    },
+    {
+      "clinic": "Aurora Cornerstar Plaza Clinic",
+      "city": "Aurora",
+      "state": "CO",
+      "nps": 9.69
+    },
+    {
+      "clinic": "Littleton Highline Professional Center Clinic",
+      "city": "Littleton",
+      "state": "CO",
+      "nps": 9.67
+    },
+    {
+      "clinic": "Spartanburg Palmetto Bank Clinic",
+      "city": "Spartanburg",
+      "state": "SC",
+      "nps": 9.62
+    },
+    {
+      "clinic": "Seven Hills Lombardo Center Clinic",
+      "city": "Seven Hills",
+      "state": "OH",
+      "nps": 9.52
+    },
+    {
+      "clinic": "Monroe Campus Park Clinic",
+      "city": "Monroe",
+      "state": "NC",
+      "nps": 9.43
+    },
+    {
+      "clinic": "Sussex Beer Capitol Clinic",
+      "city": "Sussex",
+      "state": "WI",
+      "nps": 9.41
+    },
+    {
+      "clinic": "Louisville Seven Counties Broadway Clinic",
+      "city": "Louisville",
+      "state": "KY",
+      "nps": 9.37
+    },
+    {
+      "clinic": "Federal Way 32nd Ave Clinic",
+      "city": "Federal Way",
+      "state": "WA",
+      "nps": 9.36
+    },
+    {
+      "clinic": "Tacoma Health Center",
+      "city": "Tacoma",
+      "state": "WA",
+      "nps": 9.06
+    },
+    {
+      "clinic": "North Charleston Netherby Lane Clinic",
+      "city": "North Charleston",
+      "state": "SC",
+      "nps": 9.0
+    },
+    {
+      "clinic": "Northglenn Metro North Clinic",
+      "city": "Northglenn",
+      "state": "CO",
+      "nps": 9.0
+    },
+    {
+      "clinic": "Denver State Capitol Clinic",
+      "city": "Denver",
+      "state": "CO",
+      "nps": 8.94
+    },
+    {
+      "clinic": "Pueblo Fortino Boulevard Health Center",
+      "city": "Pueblo",
+      "state": "CO",
+      "nps": 8.88
+    },
+    {
+      "clinic": "Boulder Goose Creek Clinic",
+      "city": "Boulder",
+      "state": "CO",
+      "nps": 8.85
+    },
+    {
+      "clinic": "Fort Collins Caring for the Family",
+      "city": "Fort Collins",
+      "state": "CO",
+      "nps": 8.82
+    },
+    {
+      "clinic": "Denver Lowry Medical Plaza Clinic",
+      "city": "Denver",
+      "state": "CO",
+      "nps": 8.7
+    },
+    {
+      "clinic": "Puyallup Meeker's Landing Clinic",
+      "city": "Puyallup",
+      "state": "WA",
+      "nps": 8.7
+    },
+    {
+      "clinic": "Mayville Metalcraft Clinic",
+      "city": "Mayville",
+      "state": "WI",
+      "nps": 8.65
+    },
+    {
+      "clinic": "Louisville Humana East Health Center",
+      "city": "Louisville",
+      "state": "KY",
+      "nps": 8.63
+    },
+    {
+      "clinic": "Denver 15th Street Clinic",
+      "city": "Denver",
+      "state": "CO",
+      "nps": 8.59
+    },
+    {
+      "clinic": "DTC Centrum Healthcare Center Clinic",
+      "city": "Greenwood Village",
+      "state": "CO",
+      "nps": 8.57
+    },
+    {
+      "clinic": "Louisville Park Plaza Clinic",
+      "city": "Louisville",
+      "state": "KY",
+      "nps": 8.49
+    },
+    {
+      "clinic": "Mt. Pleasant Patriots Plaza Clinic",
+      "city": "Mount Pleasant",
+      "state": "SC",
+      "nps": 8.43
+    },
+    {
+      "clinic": "Pueblo West Generations Primary Care",
+      "city": "Pueblo West",
+      "state": "CO",
+      "nps": 8.38
+    },
+    {
+      "clinic": "Colorado Springs Wall Street Clinic",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "nps": 8.37
+    },
+    {
+      "clinic": "Arvada City of Arvada Clinic",
+      "city": "Arvada",
+      "state": "CO",
+      "nps": 8.35
+    },
+    {
+      "clinic": "Lakewood Belmar Medical Building Clinic",
+      "city": "Lakewood",
+      "state": "CO",
+      "nps": 8.16
+    },
+    {
+      "clinic": "Beachwood Science Park Drive",
+      "city": "Beachwood",
+      "state": "OH",
+      "nps": 8.0
+    },
+    {
+      "clinic": "Broomfield Buffalo Ridge Clinic",
+      "city": "Broomfield",
+      "state": "CO",
+      "nps": 7.9
+    },
+    {
+      "clinic": "Oconomowoc Sentry Equipment Clinic",
+      "city": "Oconomowoc",
+      "state": "WI",
+      "nps": 7.85
+    },
+    {
+      "clinic": "Louisville Humana West Health Center",
+      "city": "Louisville",
+      "state": "KY",
+      "nps": 7.54
+    },
+    {
+      "clinic": "Akron-White Pond Drive Clinic",
+      "city": "Akron",
+      "state": "OH",
+      "nps": 7.5
+    },
+    {
+      "clinic": "New Berlin Health Center",
+      "city": "New Berlin",
+      "state": "WI",
+      "nps": 7.5
+    },
+    {
+      "clinic": "Sheboygan Falls Plankview Office",
+      "city": "Sheboygan Falls",
+      "state": "WI",
+      "nps": 6.94
+    }
+  ]
+}

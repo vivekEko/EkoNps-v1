@@ -1,0 +1,28 @@
+{
+  "nps": {
+    "nps_score": 49,
+    "promoters": 63,
+    "total_promoters": 1112,
+    "passive": 23,
+    "total_passive": 412,
+    "detractors": 14,
+    "total_detractors": 244
+  },
+  "nps_pie": [
+    {
+      "label": "Promoters",
+      "percentage": 72,
+      "color": "#00AC69"
+    },
+    {
+      "label": "Passives",
+      "percentage": 19,
+      "color": "#4D5552"
+    },
+    {
+      "label": "Detractors",
+      "percentage": 8,
+      "color": "#DB2B39"
+    }
+  ]
+}

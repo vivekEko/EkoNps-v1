@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "review": "i showed up for my appointment  but they had me double booked  so we didn t get to meet with the doctor for very long  and had an expedited visit  the doctor and staff were extremely friendly and apologized  and the office environment was very nice ",
+    "label": "Positive"
+  },
+  {
+    "id": 2,
+    "review": "maybe not sure of service yet",
+    "label": "Negative"
+  },
+  {
+    "id": 3,
+    "review": "overall care is great   it s wonderful to be able to spend       minutes with the actual dr ",
+    "label": "Positive"
+  },
+  {
+    "id": 4,
+    "review": "like the doctor and staff at this location  easy to get any appointment ",
+    "label": "Positive"
+  },
+  {
+    "id": 5,
+    "review": "the convenience and the doctors",
+    "label": "Neutral"
+  },
+  {
+    "id": 6,
+    "review": "worst experience ever  nurse and dr  lied to my face then to my wife  said she would tie my wife down to draw blood  head person in charge didnt care that her workers lied to us  she didnt nothing about it",
+    "label": "Extreme"
+  },
+  {
+    "id": 7,
+    "review": "i like the convenience of the location to my work and i like one provider who will keep track of all of my other providers etc   i was sick and they were able to help me and had the px right there so i didn t have to go to another place to fill my prescription ",
+    "label": "Positive"
+  },
+  {
+    "id": 8,
+    "review": "appt ease dr spends time thorough close to work",
+    "label": "Positive"
+  },
+  {
+    "id": 9,
+    "review": "i was in a lot of discomfort yesterday and appreciated the quick response",
+    "label": "Positive"
+  },
+  {
+    "id": 10,
+    "review": "focus on preventative services   my lipids panel was not included my fasting blood work ",
+    "label": "Neutral"
+  },
+  {
+    "id": 11,
+    "review": "not sure",
+    "label": "Negative"
+  },
+  {
+    "id": 12,
+    "review": "it is a good set up if you can get it for free through the state  as i can  i was in need of a primary care doctor and wanted an actual doctor  not a nurse practitioner  and i was struggling to find one through my insurance company ",
+    "label": "Positive"
+  },
+  {
+    "id": 13,
+    "review": "i don t have enough experience with paladina to make a recommendation yet ",
+    "label": "Neutral"
+  },
+  {
+    "id": 14,
+    "review": "no copay like my provider",
+    "label": "Negative"
+  },
+  {
+    "id": 15,
+    "review": "quick appointments  personalized care  low cost",
+    "label": "Positive"
+  },
+  {
+    "id": 16,
+    "review": "great customer service by the doctor  but a little delayed in getting test results back in a timely manner",
+    "label": "Positive"
+  },
+  {
+    "id": 17,
+    "review": "the office staff is extremely rude  they talk over you  they don t listen and they ve lied to me on more than one occasion   the np are very nice and understanding ",
+    "label": "Extreme"
+  },
+  {
+    "id": 18,
+    "review": "there was nothing that did not go well  it felt like a real family environment ",
+    "label": "Negative"
+  },
+  {
+    "id": 19,
+    "review": "a confirmation of appointment came at      and telling the appointment was at     ",
+    "label": "Neutral"
+  },
+  {
+    "id": 20,
+    "review": "ease of appt and time",
+    "label": "Positive"
+  }
+]

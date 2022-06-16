@@ -1,0 +1,59 @@
+{
+  "percentage": {
+    "low": "30%",
+    "medium": "70%",
+    "high": "100%"
+  },
+  "graph": [
+    {
+      "percentile_name": "P0",
+      "percentile_value": 0.05,
+      "member_score": 32
+    },
+    {
+      "percentile_name": "P1",
+      "percentile_value": 0.1,
+      "member_score": 20
+    },
+    {
+      "percentile_name": "P25",
+      "percentile_value": 0.16,
+      "member_score": 5
+    },
+    {
+      "percentile_name": "P33",
+      "percentile_value": 0.24,
+      "member_score": 15
+    },
+    {
+      "percentile_name": "P50",
+      "percentile_value": 0.37,
+      "member_score": 62
+    },
+    {
+      "percentile_name": "P66",
+      "percentile_value": 0.42,
+      "member_score": 31
+    },
+    {
+      "percentile_name": "P75",
+      "percentile_value": 0.58,
+      "member_score": 43
+    },
+    {
+      "percentile_name": "P95",
+      "percentile_value": 0.63,
+      "member_score": 12
+    },
+    {
+      "percentile_name": "P99",
+      "percentile_value": 0.82,
+      "member_score": 60
+    },
+    {
+      "percentile_name": "P100",
+      "percentile_value": 0.99,
+      "member_score": 47
+    }
+  ]
+}

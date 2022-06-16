@@ -1,0 +1,25 @@
+{
+  "nss": {
+    "nss_score": 69,
+    "positive": 70,
+    "negative": 1,
+    "extreme": 0.28
+  },
+  "nss_pie": [
+    {
+      "label": "Positive",
+      "percentage": 70,
+      "color": "#00AC69"
+    },
+    {
+      "label": "Negative",
+      "percentage": 1,
+      "color": "#f6da09"
+    },
+    {
+      "label": "Extreme",
+      "percentage": 0.28,
+      "color": "#DB2B39"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "nps_over_time": [
+    {
+      "month": "Jun",
+      "year": "2014",
+      "nps": 45,
+      "promoter": 59,
+      "passive": 27,
+      "detractor": 14
+    },
+    {
+      "month": "Jul",
+      "year": "2014",
+      "nps": 13,
+      "promoter": 46,
+      "passive": 21,
+      "detractor": 33
+    },
+    {
+      "month": "Aug",
+      "year": "2014",
+      "nps": 10,
+      "promoter": 41,
+      "passive": 28,
+      "detractor": 31
+    },
+    {
+      "month": "Sep",
+      "year": "2014",
+      "nps": 48,
+      "promoter": 64,
+      "passive": 20,
+      "detractor": 16
+    },
+    {
+      "month": "Oct",
+      "year": "2014",
+      "nps": 39,
+      "promoter": 56,
+      "passive": 27,
+      "detractor": 17
+    },
+    {
+      "month": "Nov",
+      "year": "2014",
+      "nps": 51,
+      "promoter": 60,
+      "passive": 32,
+      "detractor": 9
+    },
+    {
+      "month": "Dec",
+      "year": "2014",
+      "nps": 51,
+      "promoter": 62,
+      "passive": 27,
+      "detractor": 11
+    },
+    {
+      "month": "Jan",
+      "year": "2015",
+      "nps": 27,
+      "promoter": 32,
+      "passive": 9,
+      "detractor": 5
+    },
+    {
+      "month": "Feb",
+      "year": "2015",
+      "nps": 30,
+      "promoter": 30,
+      "passive": 4,
+      "detractor": 0
+    },
+    {
+      "month": "Mar",
+      "year": "2015",
+      "nps": 28,
+      "promoter": 35,
+      "passive": 14,
+      "detractor": 7
+    },
+    {
+      "month": "Apr",
+      "year": "2015",
+      "nps": 48,
+      "promoter": 51,
+      "passive": 9,
+      "detractor": 3
+    },
+    {
+      "month": "May",
+      "year": "2015",
+      "nps": 32,
+      "promoter": 33,
+      "passive": 12,
+      "detractor": 1
+    },
+    {
+      "month": "Jun",
+      "year": "2015",
+      "nps": 30,
+      "promoter": 37,
+      "passive": 11,
+      "detractor": 7
+    }
+  ]
+}
